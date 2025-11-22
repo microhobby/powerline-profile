@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 pipx install powerline-shell
+pipx inject powerline-shell psutil
 
 # add the ./.bashrc to your ~/.bashrc
 mv ~/.bashrc ~/.bashrc_old

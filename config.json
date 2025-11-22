@@ -7,6 +7,8 @@
     "git",
     "hg",
     "jobs",
+    "~/projects/B/powerline-profile/cpu_usage.py",
+    "~/projects/B/powerline-profile/exitcode.py",
     "root"
   ]
 }
