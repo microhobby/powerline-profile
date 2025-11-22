@@ -1,0 +1,12 @@
+{
+  "segments": [
+    "virtual_env",
+    "~/projects/B/powerline-profile/uusername.py",
+    "ssh",
+    "~/projects/B/powerline-profile/ccwd.py",
+    "git",
+    "hg",
+    "jobs",
+    "root"
+  ]
+}
